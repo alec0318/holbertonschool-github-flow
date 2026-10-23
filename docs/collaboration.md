@@ -1,6 +1,5 @@
 # Collaboration Guidelines
 
-feature/conflict-b
 Collaboration requires adaptability, trust, and continuous alignment among team members. Contributors are encouraged to make small, focused changes and to explain their reasoning clearly in commit messages and pull requests.
 Collaboration requires clear communication and well-defined responsibilities. Contributors are encouraged to make small, focused changes and to explain their reasoning clearly in commit messages and pull requests.
 main
